@@ -1,2 +1,2 @@
-# FlagGame
-This is my second project using swift to build apps
+# GuessTheFlagGame
+This is my second project using swift.
